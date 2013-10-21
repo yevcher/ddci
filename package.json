@@ -1,0 +1,12 @@
+{
+  "name": "ddci",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.3.4",
+    "ejs": "*"
+  },
+  "engines": {
+    "node": "0.10.12",
+    "npm": "1.2.32"
+  }  
+}
