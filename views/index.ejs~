@@ -41,14 +41,14 @@
       <!-- Jumbotron -->
       <div class="jumbotron">
         <h1>Three Months Trial Service for Free!</h1>
-        <p class="lead">This is a super special offer for early adopting customers. What ever you do in business you have to be intelligent. This is where we come up with our intimate service. Three months is a sufficient period of time to get a feeling of value. So, let us try together to make miracle to happen.</p>
+        <p class="lead">This is a super special offer for early adopting customers. What ever you do in business you have to be intelligent. This is where we come up with our intimate service. Three months is a sufficient period of time to get a feeling of value. So, let us try together to make the miracle happen.</p>
         <p><a class="btn btn-lg btn-success" href="#">Get started today</a></p>
       </div>
 
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-lg-4">
-          <h2>For Investor Communities</h2>
+          <h2>For Investment Communities</h2>
           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
           <p><a class="btn btn-primary" href="#">View details &raquo;</a></p>
         </div>
